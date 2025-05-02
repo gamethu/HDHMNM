@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 function prime() {
 	local n=$1
